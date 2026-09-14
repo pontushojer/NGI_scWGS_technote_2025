@@ -1,0 +1,8 @@
+INFO:__main__:Running cnv_agreement.py
+INFO:__main__: query: ../copykit/copykit/full/110kb.seg
+INFO:__main__: truth: ../../resources/PacBioHiFi_pr_023_003_MM1S_hificnv/MM1S_excluded.pr_023_003.seg
+INFO:__main__: fai: ../../resources/GRCh38.genome
+INFO:__main__: ploidy: 2
+INFO:__main__: output_prefix: agreement/copykit/full/PacBio_HiFi/110kb
+INFO:__main__:------------------------------
+INFO:__main__:Reading reference genome lengths...

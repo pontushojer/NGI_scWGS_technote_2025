@@ -1,0 +1,8 @@
+INFO:__main__:Running cnv_agreement.py
+INFO:__main__: query: ../basejumper/40M/CNV_Ginkgo_tertiary_data/Ginkgo_CNV1.seg
+INFO:__main__: truth: ../../resources/PacBioHiFi_pr_023_003_MM1S_hificnv/MM1S_excluded.pr_023_003.seg
+INFO:__main__: fai: ../../resources/GRCh38.genome
+INFO:__main__: ploidy: 2
+INFO:__main__: output_prefix: agreement/ginkgo/40M/PacBio_HiFi/1Mb
+INFO:__main__:------------------------------
+INFO:__main__:Reading reference genome lengths...
